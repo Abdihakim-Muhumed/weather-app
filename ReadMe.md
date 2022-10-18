@@ -1,6 +1,6 @@
 # Weather Update App
 A simple weather update app that you can use to search for weather updates about different cities in the world from the openweathermap api.
-
+![Preview](images/weather-app.png)
 # Set up instructions:
 - Clone this repository
     - git clone "https://github.com/Abdihakim-Muhumed/weather-app"
